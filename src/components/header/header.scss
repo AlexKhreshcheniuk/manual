@@ -1,0 +1,13 @@
+.header {
+  max-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: #ffffff;
+  padding: 31.5px 0;
+
+  &__logo {
+    width: 40px;
+  }
+}
